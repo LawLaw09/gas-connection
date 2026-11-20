@@ -1,0 +1,10 @@
+{
+  "name": "gas-connection",
+  "version": "0.1.0",
+  "description": "Batch image generation and editing with Google AI Studio's Nano Banana models, driven through your own signed-in browser via Claude in Chrome. No API key needed.",
+  "author": { "name": "LawLaw09" },
+  "homepage": "https://github.com/LawLaw09/gas-connection",
+  "repository": "https://github.com/LawLaw09/gas-connection",
+  "license": "MIT",
+  "keywords": ["image-generation", "gemini", "nano-banana", "ai-studio", "browser-automation", "batch"]
+}

@@ -1,0 +1,9 @@
+# local dev / test material
+_dev/
+.venv/
+.env
+__pycache__/
+*.pyc
+# created by gas.py when run from this folder
+.gas/
+gas-outputs/

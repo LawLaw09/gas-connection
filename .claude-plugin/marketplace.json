@@ -1,0 +1,13 @@
+{
+  "name": "gas-connection",
+  "description": "GAS Connection: Google AI Studio image generation for Claude Code",
+  "owner": { "name": "LawLaw09" },
+  "plugins": [
+    {
+      "name": "gas-connection",
+      "source": "./",
+      "description": "Batch image generation and editing with Google AI Studio (Nano Banana) through your own browser.",
+      "version": "0.1.0"
+    }
+  ]
+}
